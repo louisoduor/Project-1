@@ -1,0 +1,72 @@
+{
+    "blendedJuices": [
+      {
+        "name": "Tropical Bliss",
+        "ingredients": [
+          {
+            "juice": "pineapple",
+            "percentage": 40
+          },
+          {
+            "juice": "mango",
+            "percentage": 30
+          },
+          {
+            "juice": "orange",
+            "percentage": 20
+          },
+          {
+            "juice": "coconut water",
+            "percentage": 10
+          }
+        ]
+      },
+      {
+        "name": "Berry Burst",
+        "ingredients": [
+          {
+            "juice": "strawberry",
+            "percentage": 35
+          },
+          {
+            "juice": "blueberry",
+            "percentage": 25
+          },
+          {
+            "juice": "raspberry",
+            "percentage": 20
+          },
+          {
+            "juice": "apple",
+            "percentage": 20
+          }
+        ]
+      },
+      {
+        "name": "Green Revitalize",
+        "ingredients": [
+          {
+            "juice": "kale",
+            "percentage": 30
+          },
+          {
+            "juice": "spinach",
+            "percentage": 25
+          },
+          {
+            "juice": "cucumber",
+            "percentage": 20
+          },
+          {
+            "juice": "apple",
+            "percentage": 15
+          },
+          {
+            "juice": "lemon",
+            "percentage": 10
+          }
+        ]
+      }
+    ]
+  }
+  

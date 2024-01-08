@@ -1,0 +1,77 @@
+/* Add media query for larger  screens (laptop) */
+@media only screen and (min-width: 600px) {
+    .row {
+        flex-direction: row; /* Change back to row for larger screens (laptops) */
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+// document.addEventListener('DOMContentLoaded', function () {
+    //     const availableJuicesElement = document.getElementById('available-Juices');
+    //     const col2Container2Element = document.querySelector('.col-2-container2');
+    
+    //     // Fetch juices data from JSON server
+    //     fetch('http://localhost:3000/juices')
+    //         .then(response => response.json())
+    //         .then(data => {
+    //             // Create checkboxes and labels dynamically
+    //             data.forEach(juice => {
+    //                 const checkbox = document.createElement('input');
+    //                 checkbox.type = 'checkbox';
+    //                 checkbox.name = 'juiceCheckbox';
+    //                 checkbox.value = juice.id;
+    
+    //                 checkbox.style.marginRight = "10px";
+    
+    
+    //                 const label = document.createElement('label');
+    //                 label.textContent = juice.name;
+    //                 label.style.fontSize ="40px";
+    //                 label.style.fontFamily = "myFont0";
+    //                 label.style.color = "#702642"
+    
+    //                 // Append checkbox and label to the container
+    //                 availableJuicesElement.appendChild(checkbox);
+    //                 availableJuicesElement.appendChild(label);
+    //                 availableJuicesElement.appendChild(document.createElement('br'));
+    
+    //                 // Add event listener for checkbox change
+    //                  checkbox.addEventListener('change', function () {
+    //                      // If checkbox is checked, update pos-cen1 with details
+    //                     if (checkbox.checked) {
+    //                         updatePosCen1(juice);
+    //                     } else {
+    //                         // If checkbox is unchecked, clear pos-cen1
+    //                         posCen1Element.innerHTML = '';
+    //                     }
+    //                 });
+    //                     });
+    //                 })
+    //                 .catch(error => console.error('Error fetching data:', error));
+            
+    //             // Function to update pos-cen1 with juice details
+    //             function updatePosCen1(juice) {
+    //                 posCen1Element.innerHTML = `
+    //                     <img src="./images/${juice.image}" alt="${juice.name}">
+    //                     <p><span>${juice.name} <br> $${juice.price.toFixed(2)}</span> <br> ${juice.importance}</p>
+    //                 `;
+    //             }
+            
+    // });
+    
+    
+    
+    
+    

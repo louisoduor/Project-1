@@ -1,0 +1,40 @@
+{
+    "juices": [
+      {
+        "id": 1,
+        "name": "Orange Juice",
+        "image":"./images/Virgin Raspberry Mojito Rezept - Schweppes Cocktails.jpeg",
+        "importance": "Rich in Vitamin C, supports immune system health.",
+        "price": 2.99
+      },
+      {
+        "id": 2,
+        "name": "Apple Juice",
+        "image":"./images/Mocktail pomme-gingembre _ RICARDO.jpeg",
+        "importance": "Packed with antioxidants, promotes heart health.",
+        "price": 3.49
+      },
+      {
+        "id": 3,
+        "name": "Carrot Juice",
+        "image":"./images/How To Make Carrot Juice At Home.jpeg",
+        "importance": "Good for eye health, rich in beta-carotene.",
+        "price": 4.99
+      },
+      {
+        "id": 4,
+        "name": "Berry Mix Juice",
+        "image":"./images/Mixed Berry Smoothie.jpeg",
+        "importance": "High in antioxidants, supports brain health.",
+        "price": 5.99
+      },
+      {
+        "id": 5,
+        "name": "Watermelon Juice",
+        "image":"./images/Minty Watermelon Fizz.jpeg",
+        "importance": "Hydrating, contains vitamins A and C.",
+        "price": 3.99
+      }
+    ]
+  }
+  
